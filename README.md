@@ -32,3 +32,11 @@ Type following in command line in the same directory to run the application:
 ```
 node index.js
 ```
+
+## Usage Demo
+![sample](https://github.com/d104601/E-Commerce_back_end/blob/main/demo.gif)
+
+
+## Test Result using Insomnia
+![sample](https://github.com/d104601/E-Commerce_back_end/blob/main/test.gif)
+
